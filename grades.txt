@@ -1,0 +1,28 @@
+1600
+A 1472
+A- 1424
+B+ 1360
+B 1280
+B- 1232
+C+  1120
+C  1008
+C-  960
+D+  880
+D  800
+*
+Quiz 3
+Qz1 10 15
+Qz2 8 15
+Qz3 14 15
+Exam 0
+Lab 2
+Lab1 15 20
+Lab2 20 20
+MajorProgram 1
+MP1 76 100
+Assignment 0
+Attendance 0
+
+
+
+ 
